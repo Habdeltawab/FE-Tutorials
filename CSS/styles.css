@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+
+h1{
+    margin-top: 0;
+}
+
+.first-container{
+    background-color: #E4F9F5;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+
+.second-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.third-container{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
